@@ -1,24 +1,14 @@
-# chatgpt_vue
+介绍
 
-## Project setup
-```
-yarn install
-```
+Java+gpt-3.5-turbo聊天应用,前端代码 使用前后端分离，后端代码见另一个仓库
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+软件架构
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Vue
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+安装说明
+
+需要将请求地址ip和端口替换为后端的ip、端口![输入图片说明](%E6%88%AA%E5%B1%8F2023-03-21%2020.26.05.png)
+
+
