@@ -13,6 +13,7 @@
     "core-js": "^3.6.5",
     "element-plus": "^2.3.0",
     "element-ui": "^2.15.13",
+    "js-audio-recorder": "^1.0.7",
     "vue": "^2.6.11"
   },
   "devDependencies": {
