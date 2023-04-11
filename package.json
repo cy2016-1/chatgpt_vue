@@ -14,7 +14,8 @@
     "element-plus": "^2.3.0",
     "element-ui": "^2.15.13",
     "js-audio-recorder": "^1.0.7",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.13",
