@@ -1,20 +1,8 @@
 <template>
   <div id="app">
-    <ChatBox />
+    <router-view/>
   </div>
 </template>
-
-<script>
-import ChatBox from './components/ChatBox.vue'
-
-export default {
-  name: 'App',
-  components: {
-    ChatBox
-  }
-}
-</script>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -22,6 +10,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+ 
 }
 </style>
